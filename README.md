@@ -46,6 +46,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 <div >
+<br/> 
     <a href="https://www.credly.com/badges/9985f404-0d1d-4647-b7a5-36f86d0dad68/linked_in?t=ror1sa">
 <img align="center" width="150px" src="https://images.credly.com/size/220x220/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png">
 </a>
