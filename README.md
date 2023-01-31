@@ -15,17 +15,11 @@
 ![example workflow](https://www.codewars.com/users/MousaAlsultan/badges/large)
 
 ## Connect with me  
-<div >
-<a href="https://twitter.com/https://twitter.com/Mousasultan2000" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mousa-alsultan-aa99481b9/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/https://dribbble.com/mousasultan" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>  
-</div>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mousa-alsultan-aa99481b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mousa-alsultan-aa99481b9/" height="30" width="40" /></a>
+<a href="https://twitter.com/@mousasultan2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mousasultan2000" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/mousasultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/mousasultan" height="30" width="40" /></a>
+<a href="https://discord.gg/Mousa#4239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mousa#4239" height="30" width="40" /></a>
+</p
 
 
 
